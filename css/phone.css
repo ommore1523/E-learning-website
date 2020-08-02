@@ -1,0 +1,99 @@
+
+
+
+.navbar{
+    flex-direction: column;
+    height: 344px;
+    transition: all 0.7s ease-out;
+}
+
+.nav-list{
+    flex-direction: column;
+}
+
+
+.fist-half{
+    width: 74%;
+ 
+}
+
+.h-primary{
+    font-size: 2rem;
+}
+
+.btn-primary {
+    margin: 6px 3px;
+    padding: 5px 25px;
+    border-radius: 11px;
+    font-family: cursive;
+}
+
+.second-half {
+    margin-top: 0px;
+}
+
+.form{
+    max-width: 366px;
+    text-align: center;
+}
+.form input{
+    width: 91%;
+}
+
+.right-nav input{
+    max-width: 44%;
+}
+
+.logo{
+    margin: 8px 20px;
+}
+
+.box-main{
+    width: 100%;
+    flex-direction: column-reverse;
+}
+
+.thumbnail img {
+    padding-bottom: 0;
+    height: 120px;
+    width: 210px;
+}
+
+.sec-right {
+    width: 97%;
+}
+
+.second-half img {
+    height: 150px;
+    width: 200px;
+}
+
+.burger{
+    position: absolute;
+    cursor: pointer;
+    right: 5%;
+    top:15%
+}
+
+.line {
+    width: 30px;
+    background-color: white;
+    height: 3px;
+    margin: 4px 3px;
+}
+
+.h-nav{
+    height: 35px;
+}
+
+.v-class{
+    opacity: 0;
+}
+
+.item{
+    flex-direction: column-reverse;
+}
+
+.item-left{
+    flex-direction: column-reverse;
+}
